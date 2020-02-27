@@ -3,13 +3,7 @@
   "meta": {
     "autorest_options": {
       "version": "preview",
-      "use": "",
-      "python": "",
-      "python-mode": "",
-      "sdkrel:python-sdks-folder": "./sdk/.",
-      "multiapi": "",
-      "keep-version-file" :"",
-      "no-async": ""
+      "az": ""
     },
     "advanced_options": {
       "create_sdk_pull_requests": true,
