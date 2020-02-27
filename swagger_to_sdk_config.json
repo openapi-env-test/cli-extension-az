@@ -3,9 +3,9 @@
   "meta": {
     "autorest_options": {
       "version": "preview",
-      "use": "@autorest/python",
+      "use": "",
       "python": "",
-      "python-mode": "update",
+      "python-mode": "",
       "sdkrel:python-sdks-folder": "./sdk/.",
       "multiapi": "",
       "keep-version-file" :"",
