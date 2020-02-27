@@ -3,7 +3,8 @@
   "meta": {
     "autorest_options": {
       "version": "preview",
-      "az": ""
+      "az": "",
+      "use": "test."
     },
     "advanced_options": {
       "create_sdk_pull_requests": true,
