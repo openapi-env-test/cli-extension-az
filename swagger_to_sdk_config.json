@@ -3,7 +3,8 @@
   "meta": {
     "autorest_options": {
       "az": "",
-      "use": "@autorest/az@latest"
+      "use": "@autorest/az@latest",
+      "version": "3.0.6198"
     },
     "advanced_options": {
       "create_sdk_pull_requests": true,
